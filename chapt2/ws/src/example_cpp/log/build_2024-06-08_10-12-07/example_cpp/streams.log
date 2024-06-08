@@ -1,0 +1,51 @@
+[0.012s] Invoking command in '/home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cde/d2lros2/chapt2/colcon_test_ws/install/launch_testing_examples:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_service:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_guard_conditions:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp -- -j4 -l4
+[0.035s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.139s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[0.159s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.162s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.166s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.174s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.185s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.220s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.222s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.326s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.427s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.514s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.514s] -- Configured cppcheck include dirs: 
+[0.514s] -- Configured cppcheck exclude dirs and/or files: 
+[0.516s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.521s] -- Added test 'lint_cmake' to check CMake code style
+[0.522s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.537s] -- Added test 'uncrustify' to check C / C++ code style
+[0.537s] -- Configured uncrustify additional arguments: 
+[0.538s] -- Added test 'xmllint' to check XML markup files
+[0.540s] -- Configuring done
+[0.554s] -- Generating done
+[0.556s] -- Build files have been written to: /home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp
+[0.586s] [35m[1mConsolidate compiler generated dependencies of target node_01[0m
+[0.598s] [ 25%] [32mBuilding CXX object CMakeFiles/node_03.dir/src/node_03.cpp.o[0m
+[0.616s] [ 75%] Built target node_01
+[2.928s] [100%] [32m[1mLinking CXX executable node_03[0m
+[3.020s] [100%] Built target node_03
+[3.032s] Invoked command in '/home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cde/d2lros2/chapt2/colcon_test_ws/install/launch_testing_examples:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_service:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_guard_conditions:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp -- -j4 -l4
+[3.078s] Invoking command in '/home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cde/d2lros2/chapt2/colcon_test_ws/install/launch_testing_examples:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_service:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_guard_conditions:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp
+[3.086s] -- Install configuration: ""
+[3.086s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/ament_index/resource_index/package_run_dependencies/example_cpp
+[3.086s] -- Installing: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/ament_index/resource_index/parent_prefix_path/example_cpp
+[3.086s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/environment/ament_prefix_path.sh
+[3.086s] -- Installing: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/environment/ament_prefix_path.dsv
+[3.087s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/environment/path.sh
+[3.087s] -- Installing: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/environment/path.dsv
+[3.087s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/local_setup.bash
+[3.087s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/local_setup.sh
+[3.087s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/local_setup.zsh
+[3.087s] -- Installing: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/local_setup.dsv
+[3.087s] -- Installing: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/package.dsv
+[3.087s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/ament_index/resource_index/packages/example_cpp
+[3.087s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/cmake/example_cppConfig.cmake
+[3.088s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/cmake/example_cppConfig-version.cmake
+[3.088s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/share/example_cpp/package.xml
+[3.088s] -- Up-to-date: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/lib/example_cpp/node_01
+[3.088s] -- Installing: /home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/lib/example_cpp/node_03
+[3.088s] -- Set runtime path of "/home/cde/d2lros2/chapt2/ws/src/example_cpp/install/example_cpp/lib/example_cpp/node_03" to ""
+[3.092s] Invoked command in '/home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cde/d2lros2/chapt2/colcon_test_ws/install/launch_testing_examples:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_service:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_guard_conditions:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/cde/d2lros2/chapt2/ws/src/example_cpp/build/example_cpp

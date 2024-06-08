@@ -1,0 +1,49 @@
+[0.858s] Invoking command in '/home/cde/d2lros2/chapt2/colcon_test_ws/src/examples/rclpy/actions/minimal_action_client': PYTHONPATH=/home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_client build --build-base /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build install --record /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/install.log --single-version-externally-managed install_data
+[1.140s] running egg_info
+[1.141s] creating ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info
+[1.142s] writing ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[1.143s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[1.144s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[1.144s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/requires.txt
+[1.145s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[1.146s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.149s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.150s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.151s] running build
+[1.151s] running build_py
+[1.152s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build
+[1.152s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib
+[1.152s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client
+[1.153s] copying examples_rclpy_minimal_action_client/client_cancel.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client
+[1.154s] copying examples_rclpy_minimal_action_client/client.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client
+[1.155s] copying examples_rclpy_minimal_action_client/client_asyncio.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client
+[1.158s] copying examples_rclpy_minimal_action_client/__init__.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client
+[1.158s] copying examples_rclpy_minimal_action_client/client_not_composable.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client
+[1.158s] running install
+[1.158s] running install_lib
+[1.159s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client
+[1.159s] copying /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client/client_cancel.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client
+[1.159s] copying /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client/client.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client
+[1.160s] copying /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client/client_asyncio.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client
+[1.160s] copying /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client/__init__.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client
+[1.160s] copying /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build/lib/examples_rclpy_minimal_action_client/client_not_composable.py -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client
+[1.161s] byte-compiling /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client/client_cancel.py to client_cancel.cpython-310.pyc
+[1.162s] byte-compiling /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client/client.py to client.cpython-310.pyc
+[1.162s] byte-compiling /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client/client_asyncio.py to client_asyncio.cpython-310.pyc
+[1.163s] byte-compiling /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client/__init__.py to __init__.cpython-310.pyc
+[1.163s] byte-compiling /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client/client_not_composable.py to client_not_composable.cpython-310.pyc
+[1.164s] running install_data
+[1.164s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/share/ament_index
+[1.165s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index
+[1.165s] creating /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index/packages
+[1.165s] copying resource/examples_rclpy_minimal_action_client -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index/packages
+[1.165s] copying package.xml -> /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/share/examples_rclpy_minimal_action_client
+[1.165s] running install_egg_info
+[1.168s] Copying ../../../../../build/examples_rclpy_minimal_action_client/examples_rclpy_minimal_action_client.egg-info to /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples_rclpy_minimal_action_client-0.15.1-py3.10.egg-info
+[1.169s] running install_scripts
+[1.193s] Installing client script to /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.195s] Installing client_asyncio script to /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.196s] Installing client_cancel script to /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.197s] Installing client_not_composable script to /home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.198s] writing list of installed files to '/home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/install.log'
+[1.298s] Invoked command in '/home/cde/d2lros2/chapt2/colcon_test_ws/src/examples/rclpy/actions/minimal_action_client' returned '0': PYTHONPATH=/home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/cde/d2lros2/chapt2/colcon_test_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_client build --build-base /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/build install --record /home/cde/d2lros2/chapt2/colcon_test_ws/build/examples_rclpy_minimal_action_client/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+/home/cde/d2lros2/chapt2/basic/build/CMakeFiles/uninstall.dir
+/home/cde/d2lros2/chapt2/basic/build/CMakeFiles/first_node_uninstall.dir
+/home/cde/d2lros2/chapt2/basic/build/CMakeFiles/first_node.dir
+/home/cde/d2lros2/chapt2/basic/build/CMakeFiles/test.dir
+/home/cde/d2lros2/chapt2/basic/build/CMakeFiles/edit_cache.dir
+/home/cde/d2lros2/chapt2/basic/build/CMakeFiles/rebuild_cache.dir
